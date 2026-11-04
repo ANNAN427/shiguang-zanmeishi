@@ -173,7 +173,8 @@ git push origin feature/your-feature-name
 如有问题，请通过以下方式联系：
 
 - 项目 Issues
-- 开发者邮箱
+- 开发者邮箱：ansdsg123@gmail.com
+-            2112680948@qq.com
 
 ## 行为准则
 
