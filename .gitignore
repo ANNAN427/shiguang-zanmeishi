@@ -1,0 +1,21 @@
+# 依赖（不要写 node-modules/，项目运行需要它）
+node_modules/
+
+# 密钥和本地配置
+.env
+.env.local
+project.private.config.json
+
+# 内部文件，不公开
+admin.html
+SECURITY_AUDIT.md
+GITHUB_READY.md
+config/mcporter.json
+
+# 备份和杂项
+*.bak
+*.zip
+*-backup/
+.DS_Store
+Thumbs.db
+*.log
